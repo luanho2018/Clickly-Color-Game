@@ -1,0 +1,88 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: slategrey;
+  color: white; 
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+}
+
+button {
+  padding: 10px;
+  border-radius: 40px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: #ff99cc;
+}
+
+
+#button1:active {
+  background-image:url(https://cdn.glitch.com/9bbcd1f2-fade-4ddf-a482-bd42f2e7970b%2Fdog1.jpeg?v=1616569744777);
+}
+
+#button1.lit {
+  background:#660033;
+}
+
+#button2 {
+    background: #d1e0e0;
+}
+
+#button2:active {
+  background-image:url(https://cdn.glitch.com/9bbcd1f2-fade-4ddf-a482-bd42f2e7970b%2Fdog2.jpeg?v=1616571391367);
+}
+
+#button2.lit {
+    background:#334d4d;
+}
+
+#button3 {
+    background: #dfbf9f;
+}
+
+#button3:active {
+  background-image:url(https://cdn.glitch.com/9bbcd1f2-fade-4ddf-a482-bd42f2e7970b%2Fdog3.jpeg?v=1616571390328)
+}
+
+#button3.lit {
+    background:#996633;
+}
+
+#button4 {
+    background: #b3d9ff;
+}
+
+#button4:active {
+    background-image:url(https://cdn.glitch.com/9bbcd1f2-fade-4ddf-a482-bd42f2e7970b%2Fdog4.jpeg?v=1616571389300);
+}
+
+#button4.lit {
+    background: #0066cc;
+}
+
+#button5 {
+    background: #ffff99;
+}
+
+#button5:active {
+  background-image:url(https://cdn.glitch.com/9bbcd1f2-fade-4ddf-a482-bd42f2e7970b%2Fdog5.jpeg?v=1616571386421);
+}
+
+#button5.lit {
+    background: #b3b300;
+}
