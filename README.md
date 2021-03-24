@@ -6,7 +6,7 @@ Submitted by: Luan Ho
 
 Time spent: 7
 
-Link to project: https://glitch.com/edit/#!/rainy-scalloped-parrotfish
+Link to project: https://github.com/luanho2018/Clickly-Color-Game
 
 ## Required Functionality
 
