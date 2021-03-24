@@ -45,6 +45,7 @@ function startGame(){
 function stopGame() {
   document.getElementById("startBtn").classList.remove("hidden");
   document.getElementById("stopBtn").classList.add("hidden");
+  document.getElementById('safeTimerDisplay').innerHTML='1:00';
   
 }
 
